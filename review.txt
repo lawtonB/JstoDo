@@ -1,0 +1,14 @@
+
+@@ -0,0 +1,12 @@
+ +Is the Github documentation - commits and README - thorough and descriptive?
+ +Looks great!
+ +Is the code easy to read (good indentation, spacing, naming)?
+ +You're on the right track!
+ +Were jQuery effects used for user interaction?
+ +jOuery is the star of the show!
+ +Is the web page(s) styled using Bootstrap and CSS?
+ +Heck, yes!
+ +Is the site user-friendly?
+ +The friendliest of all!
+ +Do you have any additional constructive criticism or positive feedback to share?
+ +This site made me like walrus's again!
