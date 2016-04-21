@@ -15,21 +15,6 @@ tasklist.prototype.fulltask = function() {
 
 //front end logic
 $(document).ready(function(){
-//   $("#add-tasklist").click(function() {
-//     $("#new-tasklist").append(
-//                     '<div id="tasklist">' +
-//                       '<div class="new-tasklist">' +
-//                         '<div class="form-group">' +
-//                           '<label for="new-task1">Task1</label>' +
-//                       '<input type="text" class="form-control new-task1">' +
-//                         '</div>' +
-//                         '<div class="form-group">' +
-//                           '<label for="new-task2">task2</label>' +
-//                           '<input type="text" class="form-control new-task2">' +
-//                         '</div>' +
-//                       '</div>' +
-//                     '</div>');
-// });
 
   $("#new-chore").submit(function(event) {
     event.preventDefault();
@@ -55,12 +40,7 @@ $(document).ready(function(){
     $("ul#tasklists").append("<li>" + tasklist.task1 + "</li>" + "<li>" + tasklist.task2 + "</li>");
 
 
-  });
-  });
-
-  // $("input#new-first-chore").val("");
-  // $("input.new-task1").val("");
-  // $("input.new-task2").val("");
-
+      });
+    });
   });
 });
